@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My name is Holly, and I live in Pennsylvania with my husband and our 2 dogs. I am currently a student at JHU Carey Business School and work for a large manufacturing company. In my free time, I enjoy crafts.
+My name is Holly, and I live in Pennsylvania with my husband and our 2 dogs. I am currently a student at JHU Carey Business School and I work for a large manufacturing company. In my free time, I enjoy completely craft projects such as making cups and pens. I'm also an official on Newburg borough council and have been taking various classes regarding public safety and zoning to better our small community. 
 
 ## Industry Problem: Master Scheduling in Manufacturing
 
@@ -21,3 +21,11 @@ I used the following prompts including: "Help me create content for the assistan
 The assistant did well with understanding the subject itself and knowing what additional inputs I was looking for.
 
 I did need to clarify and adjust what specific format I needed (ex. 3 sentence paragraph). 
+
+
+What I changed - I expanded the following sentence "My name is Holly, and I live in Pennsylvania with my husband and our 2 dogs. I am currently a student at JHU Carey Business School and I work for a large manufacturing company. In my free time, I enjoy completely craft projects such as making cups and pens. I'm also an official on Newburg borough council and have been taking various classes regarding public safety and zoning to better our small community."
+
+
+I changed it because it was vague and I didn't think the last orginal sentence was complete, and so I added more information and decided to not keep it as-is. 
+
+
