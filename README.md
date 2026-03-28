@@ -2,6 +2,10 @@
 
 This repository contains coursework for Week 1 of the JHU Carey Business School program, including a draft and final version of a written assignment. The assignment covers a personal introduction, an industry problem related to Master Scheduling in manufacturing, and ways generative AI could help solve it.
 
+## Video
+
+https://youtu.be/H-LqWIbWOZ4
+
 ## Git Steps
 
 1. Created new files (`README.md`, `assistant_draft.md`, `final_version.md`) in the repository
