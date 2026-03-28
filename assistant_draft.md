@@ -20,4 +20,4 @@ I used the following prompts including: "Help me create content for the assistan
 
 The assistant did well with understanding the subject itself and knowing what additional inputs I was looking for.
 
-I did need to clarify and adjust what specific format I was looking (ex. 3 sentence paragraph). 
+I did need to clarify and adjust what specific format I needed (ex. 3 sentence paragraph). 
